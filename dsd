@@ -1,0 +1,123 @@
+[33mcommit 4982b2641dd92ef4dfbc9bdc8056bf171b3a655b[m[33m ([m[1;36mHEAD -> [m[1;32mErmakov[m[33m, [m[1;31morigin/Ermakov[m[33m)[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 17:58:56 2018 +0500
+
+    Изменение
+
+[33mcommit fd49c1b988c79370c81425b770f7c0eb66eed042[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 17:40:13 2018 +0500
+
+    Изменение текста
+
+[33mcommit abae667a5426d110b1ccd92e861c4d385caed00e[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 17:38:04 2018 +0500
+
+    Изменение кодировки
+
+[33mcommit 3eabd93be719b983402f71f64276292c27c74d93[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 17:32:49 2018 +0500
+
+    Изменение храгилища
+
+[33mcommit a51379c503061aa11a6d711a11d0267c54417f9c[m
+Merge: ee9c343 b315c0f
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:43:59 2018 +0500
+
+    Merge branch 'Batuev-AA' into Ermakov
+
+[33mcommit ee9c34394b2698b73bbf0d706fe3036f0d496f0d[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:34:57 2018 +0500
+
+    Изменена процедура перемещения
+
+[33mcommit 30a56ca3ce41d4f843aa2b73f54c72bf3ce102b8[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:20:39 2018 +0500
+
+    Добавлено перемещение
+
+[33mcommit b315c0fba77f371e4f2c40f8675e71aa6fe2d539[m
+Merge: f72b24d af4c693
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:18:43 2018 +0500
+
+    Merge pull request #2 from Batuev-AA/Ermakov
+    
+    Ermakov
+
+[33mcommit af4c6933d607e2698fabd631f279e1abcb31c563[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:17:27 2018 +0500
+
+    Добавление процедуры
+
+[33mcommit 5784b1ce7f42a455df8adc099bdf27589954a5c3[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:15:31 2018 +0500
+
+    Тестирование
+
+[33mcommit 623e0f2d2d2fc14e8603c4f76eb53ace372243b1[m
+Merge: d71eaba f72b24d
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:15:09 2018 +0500
+
+    Merge branch 'Batuev-AA' into Ermakov
+
+[33mcommit d71eabaf2aaec89805e7a1e4ad4ece38b99aec58[m
+Merge: 0693c2e d32772d
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:14:27 2018 +0500
+
+    Merge branch 'Ermakov' of https://github.com/Batuev-AA/Test into Ermakov
+
+[33mcommit 0693c2ed8353698301a6d3d9ff7af5320a5fde03[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:09:38 2018 +0500
+
+    Изменена процедура обновление
+
+[33mcommit f72b24d97e6ef6fc455227adf71a8e153f3ac414[m
+Merge: 47ec32e d32772d
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:07:19 2018 +0500
+
+    Merge pull request #1 from Batuev-AA/Ermakov
+    
+    Добавлена процедура
+
+[33mcommit d32772dd8d24889a90570483823a4c8be46aeead[m
+Merge: 27a86f6 47ec32e
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:07:06 2018 +0500
+
+    Merge branch 'Batuev-AA' into Ermakov
+
+[33mcommit 27a86f62b8d79cd3e773dac7b5ec7d2b7de2af05[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:05:14 2018 +0500
+
+    Добавлена процедура
+
+[33mcommit 47ec32e9a4b373a50b840dc0735a5c57dc629398[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 15:02:01 2018 +0500
+
+    Изменена процедура
+
+[33mcommit d4cb5519ddcc5adbd8c782b9f032eab3f64a6f17[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 14:56:05 2018 +0500
+
+    Добавил процедуру
+
+[33mcommit 5100a891f2ee15fba0bbd8f7e1cdc1362e2e1f84[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Batuev-AA <41180539+Batuev-AA@users.noreply.github.com>
+Date:   Mon Jul 16 14:54:14 2018 +0500
+
+    Добавлена обработка
