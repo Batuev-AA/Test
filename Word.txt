@@ -2,6 +2,4 @@ Hello, World!!!
 How are you?
 Fine? thanks!!!
 OK
-NO
-YES
-YES
+N
